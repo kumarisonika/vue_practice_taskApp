@@ -1,0 +1,14 @@
+@import './base.css';
+
+header {
+	height: 15vh;
+	position: fixed;
+	top: 0;
+	transform-origin: top;
+}
+
+h2 {
+	font-size: 3em;
+	text-align: center;
+}
+  
